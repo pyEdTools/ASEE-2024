@@ -1,0 +1,8 @@
+openai
+os
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+textwrap
