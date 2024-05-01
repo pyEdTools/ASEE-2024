@@ -1,0 +1,5 @@
+{
+    "responses": ["Neural networks are a series of hidden layers (Conv2D, BatchNorm, MaxPooling, etc.) that each contain a certain number of trainable parameters (neurons), which are updated by using gradient descent after each iteration when the loss is calculated",
+    "A neural network is a way for AI to simulate the human brain through interconnected nodes with many different hidden layers."
+]
+}
